@@ -49,6 +49,9 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - **[byte5](https://byte5.de)**
 - **[OP.GG](https://op.gg)**
 
+- <img width="1898" height="870" alt="Screenshot 2025-08-07 162208" src="https://github.com/user-attachments/assets/0f3cccdd-627a-4348-9a6e-943e0cbd1c6a" />
+
+
 ## Contributing
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
